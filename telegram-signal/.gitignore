@@ -62,3 +62,5 @@ htmlcov/
 
 # Misc
 .cache/
+.vercel
+.env*.local
